@@ -1,3 +1,11 @@
+REM ----------------------------------------------------------------------------
+REM Script: VLC Basic Digital Signage
+REM Version: 1.0
+REM Author: Mike Galvin
+REM Contact: mike@gal.vin or twitter.com/mikegalvin_
+REM Date: 2019-08-19
+REM ----------------------------------------------------------------------------
+
 SET "media=C:\foo\media"
 
 :Start
