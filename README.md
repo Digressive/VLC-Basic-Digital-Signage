@@ -2,6 +2,11 @@
 
 Small Windows batch script that uses VLC to play a configurable folder of media, in an endless loop, fullscreen and without any UI elements.
 
+Please consider donating to support my work:
+
+* You can support me on a monthly basis [using Patreon.](https://www.patreon.com/mikegalvin)
+* You can support me with a one-time payment [using PayPal](https://www.paypal.me/digressive) or by [using Kofi.](https://ko-fi.com/mikegalvin)
+
 -Mike
 
 Tweet me if you have questions: [@mikegalvin_](https://twitter.com/mikegalvin_)
