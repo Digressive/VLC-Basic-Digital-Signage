@@ -1,6 +1,6 @@
 # VLC-Basic-Digital-Signage
 
-Small Windows batch script that uses VLC to play a configurable folder of media, in an endless loop, fullscreen and without any UI elements.
+Small Windows batch script that uses VLC to play a configurable folder of media, in an endless loop, full screen and without any UI elements.
 
 Please consider supporting my work:
 
