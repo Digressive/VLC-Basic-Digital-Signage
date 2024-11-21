@@ -4,7 +4,8 @@ Small Windows batch script that uses VLC to play a configurable folder of media,
 
 Please consider supporting my work:
 
-* Support with a one-time payment using [**PayPal**](https://www.paypal.me/digressive).
+* Support with [Github Sponsors](https://github.com/sponsors/Digressive).
+* Support with a one-time donation using [PayPal](https://www.paypal.me/digressive).
 
 Please report any problems via the ‘issues’ tab on GitHub.
 
